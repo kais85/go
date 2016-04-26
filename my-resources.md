@@ -12,3 +12,11 @@ intro statstics videos:  https://www.youtube.com/user/jbstatistics/videos
 vision-geometry
 
 INF555 Digital Representation and Analysis of Shapes http://www.enseignement.polytechnique.fr/informatique/INF555/
+
+
+============================
+neurla networks
+
+http://playground.tensorflow.org
+
+http://neuralnetworksanddeeplearning.com/index.html
