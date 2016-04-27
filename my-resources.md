@@ -20,3 +20,9 @@ neurla networks
 http://playground.tensorflow.org
 
 http://neuralnetworksanddeeplearning.com/index.html
+
+
+======================================
+data science 
+
+https://trello.com/b/rbpEfMld/data-science
