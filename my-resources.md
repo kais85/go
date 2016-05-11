@@ -6,6 +6,7 @@ linear regrission: http://www.cc.gatech.edu/~lebanon/notes/linReg.pdf
 
 intro statstics videos:  https://www.youtube.com/user/jbstatistics/videos
 
+Bayesian statistics: a comprehensive course https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm
 
 
 =====================================
